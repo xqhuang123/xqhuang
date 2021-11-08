@@ -1,4 +1,4 @@
-### Here are two course projects
+### Here are two example projects about predictive analysis and data mining
 
 #### 1. Wine quality prediction, which is about wine quality classification based on some physical chemical properties, including data exploratory analysis, model buiding and evaluation. This project used R.
 
