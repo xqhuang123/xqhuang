@@ -13,4 +13,5 @@
 ### 4. main.py 
 ####    --- setting the parameters, training the model and evaluating the model given the path of training, validation, testing and path for saving the result.
 
-#### Cite: Sun J, Huang X, Egwuagu C, Badr Y, Dryden SC, Fowler BT, Yousefi S. Identifying Mouse Autoimmune Uveitis from Fundus Photographs Using Deep Learning. Transl Vis Sci Technol. 2020 Dec 2;9(2):59. doi: 10.1167/tvst.9.2.59. PMID: 33294300. 
+#### Cite: 
+Sun J, Huang X, Egwuagu C, Badr Y, Dryden SC, Fowler BT, Yousefi S. Identifying Mouse Autoimmune Uveitis from Fundus Photographs Using Deep Learning. Transl Vis Sci Technol. 2020 Dec 2;9(2):59. doi: 10.1167/tvst.9.2.59. PMID: 33294300. 
